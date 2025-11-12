@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "hooks": {
+    "user-prompt-submit": null,
+    "tool-use": null
+  },
+  "statusLine": {
+    "enabled": false,
+    "template": ""
+  },
+  "experimental": {}
+}
