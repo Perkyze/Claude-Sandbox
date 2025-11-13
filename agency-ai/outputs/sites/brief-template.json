@@ -1,0 +1,68 @@
+{
+  "business_name": "Café Bloom",
+  "industry": "Restaurant",
+  "tagline": "Cuisine française authentique au cœur de Montréal",
+  "target_audience": "Familles et professionnels 30-55 ans, recherchent expérience culinaire de qualité",
+  "geography": "Plateau Mont-Royal, Montréal",
+  "goals": [
+    "Générer des réservations en ligne",
+    "Améliorer classement Google pour 'restaurant français Montréal'",
+    "Présenter menu et ambiance",
+    "Faciliter les réservations (réduire appels téléphoniques)"
+  ],
+  "pages": [
+    "Accueil",
+    "Menu",
+    "À propos",
+    "Réservation",
+    "Contact",
+    "Blogue"
+  ],
+  "features": [
+    "Système de réservation en ligne",
+    "Formulaire de contact",
+    "Google Maps intégré",
+    "Galerie photos (plats + ambiance)",
+    "Témoignages clients",
+    "Blogue (recettes, événements)",
+    "SEO local optimisé",
+    "Multilingue (FR + EN)"
+  ],
+  "content": {
+    "has_text": true,
+    "has_photos": true,
+    "has_logo": true,
+    "needs_writing": false,
+    "needs_photography": false
+  },
+  "design": {
+    "references": [
+      "https://example1.com - Aime le menu style grid",
+      "https://example2.com - Belle galerie photos",
+      "https://example3.com - Navigation simple"
+    ],
+    "style": "Moderne / Élégant",
+    "colors": {
+      "primary": "#8B4513",
+      "secondary": "#D2691E",
+      "accent": "#228B22"
+    },
+    "logo_available": true
+  },
+  "technical": {
+    "platform": "WordPress",
+    "hosting": "À configurer (recommandation: O2Switch)",
+    "domain": "cafebloom.ca",
+    "domain_owned": true,
+    "needs_training": true
+  },
+  "timeline": {
+    "desired_launch": "2025-11-27",
+    "reason": "Avant période des Fêtes (haute saison)"
+  },
+  "budget": {
+    "package": "Pro",
+    "price": 4000,
+    "addons": []
+  }
+}

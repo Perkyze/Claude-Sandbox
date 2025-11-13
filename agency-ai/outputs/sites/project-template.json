@@ -1,0 +1,53 @@
+{
+  "client": "Café Bloom",
+  "business_name": "Café Bloom",
+  "industry": "Restaurant",
+  "contact": {
+    "name": "Sophie Tremblay",
+    "email": "sophie@cafebloom.ca",
+    "phone": "+1 (514) 555-1234"
+  },
+  "package": "Pro",
+  "price": 4000,
+  "deposit_paid": 2000,
+  "balance_due": 2000,
+  "stack": "WordPress",
+  "pages": [
+    "Accueil",
+    "Menu",
+    "À propos",
+    "Réservation",
+    "Contact",
+    "Blogue"
+  ],
+  "features": [
+    "Système de réservation (Amelia)",
+    "Formulaire de contact",
+    "Google Maps",
+    "Galerie photos menu",
+    "Blogue (3 articles de démo)",
+    "SEO avancé (Schema.org)",
+    "Formation WordPress (1h)"
+  ],
+  "timeline": {
+    "kickoff": "2025-11-13",
+    "design_approval": "2025-11-15",
+    "development_start": "2025-11-16",
+    "client_review": "2025-11-22",
+    "launch": "2025-11-27"
+  },
+  "status": "in_progress",
+  "current_phase": "development",
+  "notes": [
+    "Client prefers warm earth tones (brown, beige, green)",
+    "Logo already provided (PNG + SVG)",
+    "Menu content ready, needs formatting",
+    "Photos to be sent by Friday"
+  ],
+  "deliverables": [
+    "Staging URL: https://staging.cafebloom.ca",
+    "Production URL: https://cafebloom.ca",
+    "Training video: [Loom link]",
+    "WordPress login: admin / [password]"
+  ]
+}

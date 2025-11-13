@@ -1,0 +1,39 @@
+{
+  "name": "agency-ai",
+  "version": "1.0.0",
+  "description": "AI-powered agency automation system for website-building business in Québec",
+  "main": "index.js",
+  "scripts": {
+    "enrich": "ts-node scripts/enrich-leads.ts",
+    "personalize": "ts-node scripts/personalize-outreach.ts",
+    "crm-update": "ts-node scripts/update-crm.ts",
+    "generate-sitemap": "ts-node scripts/generate-sitemap.ts",
+    "scaffold-nextjs": "ts-node scripts/scaffold-nextjs-site.ts",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "agency",
+    "automation",
+    "website-building",
+    "quebec",
+    "lead-generation",
+    "crm"
+  ],
+  "author": "Your Agency",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}

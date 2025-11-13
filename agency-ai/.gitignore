@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+dist/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Outputs (keep structure, ignore generated content)
+outputs/sites/*/
+!outputs/sites/.gitkeep
+outputs/leads/*.csv
+!outputs/leads/leads-template.csv
+
+# Temp files
+*.tmp
+*.bak
